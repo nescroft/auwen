@@ -6,7 +6,7 @@ Improvising electronic dance music is hard, and it's not immediately apparent wh
 
 ## Download
 
-**Desktop (recommended)** (Mac, Windows, Linux): [soniare.net/auwen](https://www.soniare.net/auwen)
+**Desktop (recommended)** (Mac, Windows, Linux): [soniare.net/auwen](https://www.soniare.net/auwen?f=github)
 
 **Mobile**: [iOS](https://www.soniare.net/ios) · [Android](https://www.soniare.net/android)
 
@@ -42,7 +42,7 @@ The tonic of your scale is synchronized to your BPM, so as you change tempo, the
 
 Run infinite polymeters — multiple time signatures playing simultaneously. The `meter` command builds complex meters from a shared pulse, so your polymeters always align in a musically coherent way. `meter random` generates one for you.
 
-### 8. Live Coding — Yes and No
+### 8. Live Coding? Yes and No
 
 Auwen works great at algoraves and live coding events, but it doesn't use code. There's no text file to write. Instead, you use a command line interface to manipulate an internal sound system in real time — like sculpting a song and using commands as your tools.
 
